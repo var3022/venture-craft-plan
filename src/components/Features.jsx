@@ -73,7 +73,7 @@ export const Features = () => {
                   height: '100%',
                   transition: 'all 0.3s',
                 }}
-                bodyStyle={{ padding: '24px' }}
+                styles={{ body: { padding: '24px' } }}
               >
                 <div
                   style={{
